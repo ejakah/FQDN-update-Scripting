@@ -1,0 +1,36 @@
+{
+  "ARecords": [
+    {
+      "ipv4Address": "109.42.115.183"
+    }
+  ],
+  "TTL": 3600,
+  "etag": "ade3f113-5cd0-4cb9-aff0-041beee5b0a5",
+  "fqdn": "autodoc.sentics.org.",
+  "id": "/subscriptions/aa0eea80-abc4-42bb-9dde-412a4e8a453d/resourceGroups/sentics_internal/providers/Microsoft.Network/dnszones/sentics.org/A/autodoc",
+  "name": "autodoc",
+  "provisioningState": "Succeeded",
+  "resourceGroup": "sentics_internal",
+  "targetResource": {},
+  "trafficManagementProfile": {},
+  "type": "Microsoft.Network/dnszones/A"
+}
+DNS record for autodoc.sentics.org updated to 109.42.115.183
+{
+  "ARecords": [
+    {
+      "ipv4Address": "109.42.115.183"
+    }
+  ],
+  "TTL": 3600,
+  "etag": "563961c0-d787-402b-958e-156c48cf6c3e",
+  "fqdn": "autodoc.sentics.org.",
+  "id": "/subscriptions/aa0eea80-abc4-42bb-9dde-412a4e8a453d/resourceGroups/sentics_internal/providers/Microsoft.Network/dnszones/sentics.org/A/autodoc",
+  "name": "autodoc",
+  "provisioningState": "Succeeded",
+  "resourceGroup": "sentics_internal",
+  "targetResource": {},
+  "trafficManagementProfile": {},
+  "type": "Microsoft.Network/dnszones/A"
+}
+DNS record for autodoc.sentics.org updated to 109.42.115.183
